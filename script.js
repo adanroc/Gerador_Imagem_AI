@@ -1,5 +1,5 @@
 // https://www.imagine.art/api/home
-const API_KEY = 'vk-8f3NheXURUV85CFzlP35q321YzGKHLUckwyD4vRoVhzGKW';
+const API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const API_URL = 'https://api.vyro.ai/v2/image/generations';
 
 const imageResultElement = document.getElementById('imageResult');
